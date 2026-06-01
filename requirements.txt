@@ -7,3 +7,7 @@ sentence-transformers>=2.7.0
 pypdf>=4.2.0
 python-dotenv>=1.0.1
 huggingface_hub
+opentelemetry-api>=1.20.0
+opentelemetry-sdk>=1.20.0
+opentelemetry-proto>=1.20.0
+protobuf>=4.25.0
